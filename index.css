@@ -1,0 +1,17 @@
+.one{
+    color: red;
+    font-size: 60px;
+
+text-align: center;
+}
+.container{
+    border: 2px solid rgb(201, 189, 61);
+    width: 200px;
+    border-radius: 80px;
+    background-color: black;
+    box-shadow: 10px 10px 20px rgba(85, 0, 255, 0.5);
+}
+.container:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}
