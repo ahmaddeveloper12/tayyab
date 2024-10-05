@@ -1,11 +1,11 @@
-.one{
+/* .one{
     color: red;
     font-size: 60px;
 
 text-align: center;
 }
 .container{
-    border: 2px solid rgb(201, 189, 61);
+    border: 2px solid red;
     width: 200px;
     border-radius: 80px;
     background-color: black;
@@ -14,4 +14,8 @@ text-align: center;
 .container:hover{
     background-color: aliceblue;
     cursor: pointer;
-}
+} */
+ .two{
+padding-left: 1000px;
+ }
+ 
